@@ -1,1 +1,3 @@
-"hello text" 
+<?php
+
+public $test = "test";
