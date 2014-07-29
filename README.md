@@ -3,5 +3,5 @@ test
 
 
 
-add master 2
+add master
 and add dev
